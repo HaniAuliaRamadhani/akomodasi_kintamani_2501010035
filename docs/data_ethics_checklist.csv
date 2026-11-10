@@ -1,0 +1,4 @@
+prinsip,status,keterangan
+Minimalisasi Data,Ya,Nomor telepon dan email sengaja tidak diambil demi privasi
+Penggunaan API yang Etis,Ya,Menggunakan jeda dan tidak melakukan spam request ke server
+Integritas Data,Ya,Tidak ada data yang dihapus meskipun terdapat nilai kosong

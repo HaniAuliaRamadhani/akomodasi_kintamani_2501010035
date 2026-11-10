@@ -1,0 +1,12 @@
+kolom,tipe_data,deskripsi
+osm_type,string,Tipe elemen OSM (node/way)
+osm_id,int,ID unik elemen pada OSM
+nama,string,Nama akomodasi
+jenis,string,"Kategori pariwisata (hotel, guest_house, dll)"
+lat,float,Titik lintang (latitude)
+lon,float,Titik bujur (longitude)
+desa,string,Nama desa/kelurahan
+bintang,string,Klasifikasi bintang akomodasi
+jumlah_kamar,string,Jumlah kamar
+website,string,Situs web resmi akomodasi
+url_osm,string,Tautan langsung ke elemen OSM
